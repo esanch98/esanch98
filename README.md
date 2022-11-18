@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<br>
+<strong>Això és strong</strong>
 
 **esanch98/esanch98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
